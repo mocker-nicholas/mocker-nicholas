@@ -4,7 +4,7 @@ My name is Nicholas Orth.
 
 ---
 
-I am currently working in a product focused technical role and have picked up web development as a hobby. I have a passion for problem solving :thinking:, continuous improvement :books:, and getting into the weeds of what makes something tick :desktop_computer:!
+I am currently working in QA Automation and have picked up web development as a hobby. I have a passion for problem solving :thinking:, continuous improvement :books:, and getting into the weeds of what makes something tick :desktop_computer:!
 
 ---
 
